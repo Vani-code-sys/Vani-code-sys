@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
+
 <!--
 **Vani-code-sys/Vani-code-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
